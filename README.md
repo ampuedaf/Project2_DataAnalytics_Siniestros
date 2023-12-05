@@ -3,8 +3,9 @@
 <p align="center">
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Kck0nx1D/ampcont2.jpg' border='0' alt='ampcont2'/></a>
 </p>
+<p align="center">
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/6p5j4Rny/siniestro.jpg' border='0' alt='siniestro' width="550" height="150"/></a>
-
+</p>
 #Indice.
 
 - Introducción.
