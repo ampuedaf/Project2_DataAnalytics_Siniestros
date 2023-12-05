@@ -1,12 +1,13 @@
 ### PROYECTO INDIVIDUAL Nº2
- ##Siniestros Viales en las 15 Comunas de Buenos Aires  con víctimas       fatales -(2016-2021).
+ ## Siniestros Viales en las 15 Comunas de Buenos Aires  con víctimas       fatales -(2016-2021).
 <p align="center">
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Kck0nx1D/ampcont2.jpg' border='0' alt='ampcont2'/></a>
 </p>
 <p align="center">
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/6p5j4Rny/siniestro.jpg' border='0' alt='siniestro' width="550" height="150"/></a>
 </p>
-#Indice.
+
+# Indice.
 
 - Introducción.
 - Contenido del repositorio.
@@ -54,24 +55,24 @@ Evaluar la infraestructura vial y proponer mejoras en la señalización, diseño
 Analizar la efectividad de las políticas y regulaciones existentes en materia de seguridad vial y proponer ajustes o nuevas medidas en base a los resultados obtenidos.
 Es importante destacar que este objetivo es solo una propuesta y que un proyecto real de análisis de datos sobre siniestros viales en la Ciudad de Buenos Aires  requeriría una planificación más detallada y la definición de indicadores específicos para medir el éxito del proyecto.
  
- ##Contenido del Repositorio.
+ ## Contenido del Repositorio.
 
  - En la carpeta src se encuentran los recursos (imágenes) utilizadas para la elaboración del presente Readme.
  - En el archivo ETL se encuentra la documentación y el paso a paso del ETL.
  - En el archivo EDA se encuentra la documentación y el paso a paso del EDA.
  - En el archivo Dashboard se encuentra la presentación de Power Bi correspondiente al proyecto, la cual muestra el estado actual de los KPI´s.
 
-##Contexto de los datos.
+## Contexto de los datos.
 Los datos fueron suminstrados directamente por  estos enlaces:
 Buenos Aires Data: **Homicidios**
 Complementarios:
 Buenos Aires Data:  dataset de **Lesiones**
 Buenos Aires Data: Complementarios: usamos un datesets de las especificaciones de nombre y ubicación geografica de las distintas 15 comunas de Buenos Aires.  **comunas.xlsx**
 
- ##Diccionario de datos.
+ ## Diccionario de datos.
   Se tiene toda una documentación para el diccionario de datos. [ Diccionario](http://https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/victimas-siniestros-viales/NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf " Diccionario")
 
-##Flujo de trabajo.
+## Flujo de trabajo.
 
 # ETL.
 - Cambio de tipos de datos, así como extracción de puntos en variables numéricas.
@@ -83,14 +84,14 @@ Buenos Aires Data: Complementarios: usamos un datesets de las especificaciones d
 
 - Creamos una columna nueva denomina "semestre" por año para  la ralización de los KPI. 
 
-##EDA.
+## EDA.
 
 
 
 ##Estudio de los Accidentes por mes  observando las distintas variaciones por cada uno de los años  (2016-2021).
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/hGStvLSf/victimas-mes.jpg' border='0' alt='victimas-mes'/></a>
 
-###Conclusion:
+### Conclusiones:
 - Podemos observar que  los años  2016, 2017 y 2019 en  el primer trimestre tienen un incremento proporcional. 
 - En el año 2018 podemos corroborar que es el año donde hubo mas accidentes. teniendo como punto de inflexión el mes de agosto.
 - El año 2020 es sumamente interesate, ya que hubo una gran disminución por la llegada del COVID 19, la cual fue decretada el 11 de marzo de ese año. observamos una disminución sucesiva, llegando a valores minimos en el mes de julio. Sin embago en el mes de diciembre fue el evento donde hubo maw siniestro en todo el estudio que realizamos, para un total de 26 victimas fatales.
@@ -98,7 +99,7 @@ Buenos Aires Data: Complementarios: usamos un datesets de las especificaciones d
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/gJM0hnMm/Dispe-Sexo.jpg' border='0' alt='Dispe-Sexo'/></a>
 
-###Conclusión:
+### Conclusiones:
 - Aca observamos que el numero de accidente ocurren en  los siguientes horarios: 2 am hasta la 10 am  y vuelve un aumento 17 hasta las 22 de la noche.
 - Se Observa que en su gran mayoria  los fallecidos son hombres.
 
@@ -116,7 +117,8 @@ Además, el mapa interactivo lo  podemos ver tambien en el dashborad de la prese
 
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/rm08dcPP/comunas.jpg' border='0' alt='comunas'/></a><br /><a href='https://postimages.org/es/'>photo sharing</a><br />
-###Conclusión:
+
+### Conclusiones:
 - Podemos afirmar que la mayor cantidad d victimas fatales están en las comunas 1: llamada CONSTITUCIÓN-MONSTERRAT-PUERTO MADERO, seguido de la comuna  numero 4; llamada BARRACAS-BOCA-NUEVA POMPETA, le sigue la comuna numero 9 llamada LINIERS-MATADORES-PARQUE AVELLANEDA Y LA COMUNA 8  conformada por: VILLALUGENO-VILLARIACHUELO-VILLA SOLDATI. y asi sucesivamente.
 - Estos numeros pueden ser atribuidos a varios fenómenos. Uno de los factores que contribuye a estos altos números de accidentes es la congestión del tráfico urbano. La limitada capacidad vial en espacios fijos a corto plazo puede llevar a una acumulación de vehículos y aumentar el riesgo de accidentes 
 
@@ -126,7 +128,7 @@ Además, el mapa interactivo lo  podemos ver tambien en el dashborad de la prese
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/xTyz5D0Z/Acusados.jpg' border='0' alt='Acusados'/></a>
 
-###Conclusion:
+### Conclusion:
 -Podemos observar   que la mayor cantidad de victimas por Acusados esta en AUTO, PASAJERSO Y CARGAS.
 
 ```
