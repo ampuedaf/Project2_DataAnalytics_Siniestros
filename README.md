@@ -1,3 +1,9 @@
+### PROYECTO INDIVIDUAL Nº2
+ ##Siniestros Viales en las 15 Comunas de Buenos Aires  con víctimas       fatales -(2016-2021).
+
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Kck0nx1D/ampcont2.jpg' border='0' alt='ampcont2'/></a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/6p5j4Rny/siniestro.jpg' border='0' alt='siniestro' width="550" height="150"/></a>
+
 #Indice.
 
 - Introducción.
@@ -122,5 +128,3 @@ Además, el mapa interactivo lo  podemos ver tambien en el dashborad de la prese
 -Podemos observar   que la mayor cantidad de victimas por Acusados esta en AUTO, PASAJERSO Y CARGAS.
 
 ```
-
-###End
