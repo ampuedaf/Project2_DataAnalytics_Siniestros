@@ -1,4 +1,6 @@
+<p align="center">
 ### PROYECTO INDIVIDUAL Nº2
+ </p>
  ## Siniestros Viales en las 15 Comunas de Buenos Aires  con víctimas       fatales -(2016-2021).
 <p align="center">
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Kck0nx1D/ampcont2.jpg' border='0' alt='ampcont2'/></a>
