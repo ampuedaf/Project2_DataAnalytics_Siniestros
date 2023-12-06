@@ -136,7 +136,7 @@ Además, el mapa interactivo lo  podemos ver tambien en el dashborad de la prese
 
 - Al finalizar el analisis Exploratorio , nos piden 2 Indicadores de desempeño.
 - Primer Indicador: Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
-- <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/90Sj9mfk/KPI.jpg' border='0' alt='KPI'/></a>
+- <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/ZY9N1fSb/KPI.jpg' border='0' alt='KPI'/></a>
 
 - Pondemos observar que en el capture de Pantalla tenemos una tabla, en ella podemos jugar con los distintos años, semestre y  ver en que periodo de tiempo se sumple nuestro indicador de desempeño. En este ejemplo particular, observamos en el año 2020 en el primer Periodo se cumple con un - 34 %, superando la reducción del -10 % . esto se debe a que en esa fecha fue cuando estabamos en Pandemia.
 - 
